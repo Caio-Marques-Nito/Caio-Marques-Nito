@@ -1,4 +1,14 @@
-## Hi there 👋
+### Oi, eu sou o Caio! 👋
+
+Sou estudante de **Engenharia Eletrônica e de Computação na UFRJ** e Técnico em Informática (Colégio Pedro II). Transito entre o software e o hardware, construindo desde aplicações e bancos de dados, projetos de robótica e circuitos ou apenas código bruto. 
+
+ Atualmente: Praticando com projetos de microcontroladores (Arduino/ESP32) na marinha do brasil e atuando no projeto de extensão LIPE na faculdade.
+ Foco técnico: Aprofundando em C, C# e Python.
+
+ Principais ferramentas:
+- Linguagens principais: Python, C#, C
+- Web & Outras: JavaScript, PHP, HTML/CSS
+- Banco de Dados: MySQL
 
 <!--
 **Caio-Marques-Nito/Caio-Marques-Nito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
